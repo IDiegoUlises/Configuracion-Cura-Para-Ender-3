@@ -102,4 +102,4 @@ Adherencia de la placa de impresión:
 * cámara de aire de la balsa: 0.3 mm
 * espaciado superior de la balsa: 0.5 mm
 
-En caso que no encuentre la opcion para configurar se debe ir a configuracion y mostrar la casilla 
+En caso que no encuentre la casilla se debe ir a preferencias>configurar cura> ajustes y habilitar la opcion
