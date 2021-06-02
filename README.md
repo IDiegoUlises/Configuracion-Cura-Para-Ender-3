@@ -101,3 +101,5 @@ Adherencia de la placa de impresión:
 * margen adicional de la balsa: 15 mm
 * cámara de aire de la balsa: 0.3 mm
 * espaciado superior de la balsa: 0.5 mm
+
+En caso que no encuentre la opcion para configurar se debe ir a configuracion y mostrar la casilla 
