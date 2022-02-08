@@ -64,5 +64,6 @@ En caso que no encuentre la casilla se debe ir a preferencias>configurar cura> a
 # Expansion horizontal y expansion horizontal de orificios
 * Expansion horizontal: 0.0 mm
 * Expansion horizontal de orificios: 0.4 mm
+
 Modifica el tamaño de la pieza en la dirección del plano XY. Un valor positivo incrementará el ancho, mientras que uno negativo lo reducira.
-Los agujeros tambien son afectados por este ajuste, siendo más pequeños cuando el valor es positivo y más grandes cuando el valor es negativo. Para calcular se debe medir la pieza con un calibrador digital.
+Los agujeros tambien son afectados por este ajuste, siendo más pequeños cuando el valor es positivo y más grandes cuando el valor es negativo, para calcular la expansion horizontal se debe medir la pieza con un calibrador digital.
