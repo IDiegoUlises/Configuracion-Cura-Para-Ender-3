@@ -60,7 +60,7 @@ Adherencia de la placa de impresión:
 * espaciado superior de la balsa: 0.5 mm
 
 En caso que no encuentre la casilla se debe ir a preferencias>configurar cura> ajustes y habilitar la opcion
-# Otras configuraciones
+# Otras configuraciones de calibracion
 # Expansion horizontal y expansion horizontal de orificios
 * Expansion horizontal: 0.0 mm
 * Expansion horizontal de orificios: 0.4 mm
